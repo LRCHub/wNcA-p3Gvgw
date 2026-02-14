@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "SOPPY",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-02-14T14:51:24.453634Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SOPPY",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/01_SOPPY_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drunk And Soppy",
+      "artist": "Senseless Things",
+      "has_synced": false,
+      "path": "select/02_Drunk_And_Soppy_Senseless_Things.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SOPPY",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_SOPPY_DUSTCELL.txt"
+    }
+  ]
+}
